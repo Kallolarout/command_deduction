@@ -10,4 +10,4 @@ Folder structure:
 
 commands:
 python main.py --restart --train --config_path=./experiments/arg_cmds_500spkrs.cfg
-(arg_cmds_500spkrs.cfg is configuration file)
+(arg_cmds_500spkrs.cfg is configuration file where we can add different test utterance to detect)
